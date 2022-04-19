@@ -1,0 +1,270 @@
+/* CLASES*/
+
+/*.container{
+    display: inline;
+}
+*/
+.bsas{
+    position: absolute;
+    font-size: 1.5em;
+    font-weight: 600;
+    text-align: right;
+    top: 23em;
+    left: -8.5em;
+    width: 100%;
+    color: beige;
+}
+
+.btnjava{
+    background: yellow;
+    color: black;
+    font-weight: 800;
+    border: none;
+    border-radius: 5px;
+}
+
+.btnnegocios{
+    background: rgb(131, 131, 131);
+    color: rgb(253, 252, 252);
+    font-weight: 800;
+    border: none;
+    border-radius: 5px;
+}
+
+.btnreact{
+    background: rgb(1, 156, 184);
+    color: white;
+    font-weight: 800;
+    border: none;
+    border-radius: 5px;
+}
+
+.btnstartups{
+    background: rgb(255, 0, 76);
+    color: white;
+    font-weight: 800;
+    border: none;
+    border-radius: 5px;
+}
+
+.card{
+    position: absolute;
+    top: 10em;
+    left: -8.2em;
+}
+
+.card1{
+    position: absolute;
+    top: 77.5em;
+    left: 42em;
+}
+
+.card2{
+    position: absolute;
+    top: 0em;
+    left: 30em;
+}
+
+.container{
+    display: block;
+}
+
+.comprar{
+    position: absolute;
+    display: inline;
+    height: 2.5em;
+    width: 10em;
+    font-size: 1.5em;
+    font-weight: 500;
+    top: 5em;
+    left: 0em;
+    color: white;
+    background: green;
+    border-radius:10px;
+    top: 34em;
+    left: 62.5em;
+}
+
+
+
+.conf{
+    position: absolute;
+    font-size: 3em;
+    font-weight: 500;
+    top: 10em;
+    left: 31em;
+    width: 100%;
+    color: white;
+}
+
+.confbsas{
+    position: absolute;
+    top: 2em;
+    font-size: 1em;
+}
+
+.confmenu{
+    font-size: 20em;
+}
+
+.conoce{
+    text-align: center;
+    font-size: 1em;
+    margin: 1em;
+}
+
+.conoceoradores1{
+    position: absolute;
+    top: 68em;
+    text-align: auto;
+    left: 47em;
+    
+}
+
+.hijo {
+    background-color: transparent;
+    border-color: white;
+    border-width: 20px;
+    padding: 10px;
+    margin: 10px;
+    
+    /* IMPORTANTE */
+    display: inline-block;
+  }
+
+  .hijo1 {
+    background-color: green;
+    padding: 10px;
+    margin: 10px;
+    
+    
+    /* IMPORTANTE */
+    display: inline-block;
+  }
+
+.image {
+    position: absolute;
+    width: 100%; /* for IE 6 */
+    left: 0px;
+       
+    }
+
+.imgcodo{
+    position: absolute;
+    width: 8%;
+    top: 1em;
+    left: 9em;
+    margin-bottom: 10em;
+}
+
+.list-group{
+    position: relative;
+    font-size: 1.5em;
+    left: 20em;
+    margin-top: 1em;
+
+}
+
+.list-group-item1{
+    font-size: 1em;
+    margin: 1em;
+    color: white;
+}
+
+.list-group-item2{
+    position: absolute;
+    font-size: 1em;
+    margin: 1em;
+    color: aquamarine;
+    left: 3 0em;
+}
+
+.list-group-item1:hover{
+    color: brown;
+}
+
+.list-group-item2:hover{
+    color: brown;
+}
+
+.menu{
+    position: absolute;
+    display: block;
+    background-color: rgb(108, 117, 125);
+    width: 1920px;
+    
+}
+
+.oradores{
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: 500 ;
+    margin: -0.5em;
+}
+
+.padre {
+    /* IMPORTANTE */
+    position: absolute;
+    text-align: center;
+    top: 1300px;
+    left: 1300px;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: white;
+  }
+
+.principal{
+    background-image:url(\img\codoacodo.png);
+}
+
+.quiero{
+    position: absolute;
+    display: inline;
+    height: 2.5em;
+    width: 10em;
+    font-size: 1.5em;
+    font-weight: 500;
+    top: 100em;
+    left: 0em;
+    color: white;
+    background: transparent;
+    border-radius:10px;
+    border-color: white;
+    top: 34em;
+    left: 50em;
+}
+
+/*ETIQUETAS*/
+
+body{
+    background-image:url("\img\ba1.jpg");
+    }
+
+h1{
+    color: white;
+}
+
+
+
+html {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+ul{
+    color: white;
+    list-style-type: none;
+    display: inline;
+}
+
+#lista1 li {
+    display:inline;
+    padding-left:3px;
+    padding-right:3px;
+   background-color:black;
+}
+
+
+  
+  
